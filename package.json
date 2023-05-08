@@ -1,0 +1,21 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "name": "@dylanbrown1993/lotide",
+  "version": "1.0.0",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Dylan Brown",
+  "license": "ISC",
+  "description": "Formulas to parse and process data of arrays"
+}
